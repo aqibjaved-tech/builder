@@ -1,0 +1,54 @@
+.customfile .custom-file-label {
+    right: 9px;
+    left: 9px;
+  }
+  .custom-button {
+    width: 100%;
+    float: left;
+    padding: 0px 0 30px 0;
+    margin: 0;
+}
+  .kt-subheader__toolbar {
+    display: none !important;
+}
+.kt-subheader__toolbar.displayblock {
+  display: flex !important;
+}
+.kt-avatar.kt-avatar--outline .kt-avatar__holder {
+    background-size: cover;
+}
+.theme-top-section .kt-widget__desc {
+    width: 48%;
+}
+.theme-top-section .align-items-center {
+    align-items: unset !important;
+}
+.kt-login__block h3 {
+    font-size: 30px !important;
+}
+.kt-login__block {
+    padding: 0 30px;
+}
+.kt-user-card.kt-user-card--skin-dark .kt-user-card__avatar .kt-badge {
+    background-color: white !important;
+}
+.btn-brand {
+    color: #fff;
+    background-color: #009F52 !important;
+    border-color: #009F52 !important;
+    color: #ffffff;
+}
+.kt-header-menu .kt-menu__nav > .kt-menu__item:hover > .kt-menu__link .kt-menu__link-text, .kt-header-menu .kt-menu__nav > .kt-menu__item.kt-menu__item--hover > .kt-menu__link .kt-menu__link-text, .kt-header-menu .kt-menu__nav > .kt-menu__item.kt-menu__item--here > .kt-menu__link .kt-menu__link-text, .kt-header-menu .kt-menu__nav > .kt-menu__item.kt-menu__item--active > .kt-menu__link .kt-menu__link-text {
+    color: #009F52 !important;
+}
+.page-item.active .page-link {
+    background-color: #009F52 !important;
+    border-color: #009F52 !important;
+}
+.kt-login__form input {
+    padding-left: 15px !important;
+}
+.kt-wizard-v1__review-content label {
+    font-weight: bold !important;
+    width: 30%;
+  }
